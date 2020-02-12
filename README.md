@@ -1,5 +1,5 @@
 ## Repo Creator : Brian Long
-## SpaceTx / SpaceJam2 results by : Eeshit Dhaval Vaishnav 
+## SpaceTx / SpaceJam2 results in this repo by : Eeshit Dhaval Vaishnav 
 
 ## Directory Structure and data accession details : https://spacetx.slack.com/files/U8DUGRFPZ/FTQ0S1VU4/image.png 
 #### 3 large files have been omitted from the repo- links are provided below:
