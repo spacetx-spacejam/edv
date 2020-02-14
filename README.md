@@ -3,7 +3,8 @@
 
 ## Directory Structure and data accession details : https://spacetx.slack.com/files/U8DUGRFPZ/FTQ0S1VU4/image.png 
 
-The suffix for each of the pdf files : \n
+<pre>
+The suffix for each of the pdf files : \n 
 'ref_celltype_distribution.pdf' : cell type proportions in the single cell / single nuclei data.\n
 'mapped_celltype_distribution.pdf' : mapped cell type proportions onto the spatial data.\n
 'confidence_scores_histogram.pdf' : frequency distribution of confidence scores across the spatial data \n
